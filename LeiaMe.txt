@@ -1,0 +1,84 @@
+O jogo Project Square é projeto de computação 1 do curso de Ciencia da Computação da Universidade Federal Rural do Rio de Janeiro, sem fins lucrativos.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Está incluido no jogo: 
+3 fases.
+Sistema de recordes.
+Tutorial.
+Diversos coletáveis, que alteram a jogabilidade durante a fase.
+Todo o conteúdo do jogo é Open Source.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Pasta do GitHub do projeto: /gustavoebbo/spacexterminator
+
+Jogo desenvolvido durante o primeiro semestre de 2015.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Informações:
+As setas do teclado direcionam o personagem.
+A barra de espaço faz o personagem pular.
+As toras matam o personagem se colidir com ele.
+A tecla enter seleciona o menu do jogo.
+Esc retorna o menu.
+Circlepoints coletados no mapa valem 100 pontos e fazem as toras da fase resetar.
+Ao passar de fase ganha-se 500 pontos.
+As vidas só contam durante o nível jogado.
+Só são disponibilizadas 4 vidas. (0,1,2,3)
+O tempo máximo de jogo é 3 minutos.
+O objetivo é chegar ao topo e colidir com Ruby.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Enredo: 
+Era uma vez...
+
+...um casal de quadrados loucamente apaixonados.
+Um belo dia, enquanto passeavam pelas redondezas de Squareland foram avistados por Tryan, um temido vilão 
+que buscava tomar a posse de Squareland...
+
+
+Tryan era o governante de Squareland até que seu pai Rettan descobriu que Scar também era seu filho. 
+E além de ser irmão de Tryan, Scar era o irmão mais velho, logo, após a morte de Rettan, Scar tomaria posse de Squareland.
+Ruby era a mais linda e educada de Squareland por isso, sempre foi muito almejada por todos. Em sua infância, 
+Ruby teve um caso com Tryan que ficou completamente apaixonado pelo encanto da tão desejada quadrada. Até que um belo dia, 
+Scar chegou de uma longa viagem, voltando da cidade vizinha Circleland.
+Ao chegar em Squareland, Scar se apaixonou por Ruby ao avistá-la no porto.
+2 meses depois...
+Scar estava muito próximo de Ruby e fez um convite inusitado.. Convidou-a para uma viagem para Parisquare.. É claro que
+Ruby aceitou..
+Chegando em Parisquare, Scar recebeu uma carta enviada para o Squaresort onde estava hospedado informando que o teste de
+DNA feito 10 anos atrás havia saído e Scar era filho de Rettan.
+1 mes depois..
+Scar e Ruby voltam de Parisquare para Squareland.. Scar e Ruby agora eram namorados e decidiram ir juntos até o castelo Squarecastle
+informar para Rettan que Scar também era seu filho..
+2 dias depois..
+Rettan ficou muito surpreso e feliz com a notícia e logo espalhou para toda a redondeza..
+
+Tryan ao saber da notícia não gostou nem um pouco e preparou uma emboscada para capturar Ruby..
+
+Então, enquanto Ruby e Scar passeavam pelas redondezas de Squareland, Ruby foi capturada por Tryan e agora o objetivo de Scar
+é salvar a sua amada.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Desenvolvedores:
+Isaac Klein
+Pierre Rossi
+Lucas Dominato
+Raphael Rocha
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Biblioteca utilizade:
+SDL 1.2
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Contatos:
+Isaac Klein
+Pierre Rossi
+Lucas Dominato
+Raphael Rocha        raphael.rrj@gmail.com
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
